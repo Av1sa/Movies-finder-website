@@ -1,7 +1,8 @@
-# Practicum_Group_Project
+# Movies Finder Website
 
 A project to create a mobile only website, providing information on movies.  
 Stack: HTML, CSS (BEM), horizontal scrolling for lists
+No functionality needed, just design. Movie cards are clickable
 
 GitHub Pages: https://tsheep30.github.io/Practicum_Group_Project/index.html  
 
